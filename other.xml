@@ -1,0 +1,154 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Ini Files</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Pyramid</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/9devices/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/crypto-detector/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/intercom/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/kb/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/livetex/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/mail_bot/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/mcs-cloud/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/tagneta/bin/python" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/9devices/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/crypto-detector/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/intercom/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/kb/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/livetex/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/mail_bot/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/mcs-cloud/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/tagneta/bin/python" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
