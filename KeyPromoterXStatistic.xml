@@ -65,6 +65,22 @@
           <Count>125</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unnamed'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
+          <Description>Debug 'Unnamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'admin'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
+          <Description>Debug 'admin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'cmd (1)'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -126,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>269</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -214,7 +230,7 @@
           <IdeaActionID>FileChooser.GotoProject</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Project Directory</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
