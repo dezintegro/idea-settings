@@ -577,6 +577,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'store'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'store'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'testing'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
