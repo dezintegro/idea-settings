@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>275</Count>
+          <Count>276</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -359,6 +359,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'testing'</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'vk'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'vk'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
