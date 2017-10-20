@@ -121,6 +121,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'import intercom'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
+          <Description>Debug 'import intercom'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'markup docs'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -297,6 +305,14 @@
           <Count>36</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'import intercom'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'import intercom'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'intercom'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -441,6 +457,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'import intercom'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'import intercom'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'intercom'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -545,6 +569,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'import intercom'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'import intercom'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'intercom'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -614,7 +646,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
