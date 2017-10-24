@@ -11,6 +11,11 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/site/nginx.conf" timestamp="1508859435232">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" timestamp="1508855243684">
         <mark key="'" line="21" column="53" />
         <mark key="[" line="35" column="31" />
@@ -22,6 +27,12 @@
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/site/Dockerfile" timestamp="1508859645562">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -42,10 +53,10 @@
         <text encoding="base64">ICAgICAgICBleGNlcHQgT2JqZWN0RG9lc05vdEV4aXN0Ogo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JykKICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcm94eV9wYXNzIGh0dHA6Ly84NS4yMzQuMzcuMTU4OjQ4MDAwLzsKICAgICAgICAgICAgICAgIHByb3h5X3JlZGlyZWN0IG9mZjsKICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgSG9zdCAkaG9zdDsKICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgWC1SZWFsLUlQICRyZW1vdGVfYWRkcjsKICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgWC1Gb3J3YXJkZWQtRm9yICRwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Qcm90byAkc2NoZW1lOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">aHRtbCA=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">JykKICAgICAgICA=</text>
@@ -53,17 +64,20 @@
       <register name="3" type="4">
         <text encoding="base64">JykKICAgICAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">JykKICAgICAgICA=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">YAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgpjbGFzcyBMaWNlbnNlc1ZpZXcoR2VuZXJpY0FQSVZpZXcpOgogICAgcXVlcnlzZXQgPSBJdGVtLm9iamVjdHMuYWxsKCkKCiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">aHRtbCA=</text>
       </register>
       <register name="/" type="4">
         <text>pos</text>
@@ -91,6 +105,8 @@
         <entry>cs</entry>
         <entry>at</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
