@@ -3,23 +3,81 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1508764434085">
+      <file name="/Dummy.txt" timestamp="1508852132533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" timestamp="1508764586143">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" timestamp="1508853068112">
+        <mark key="'" line="21" column="53" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="45" column="8" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="58" column="51" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="21" column="53" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">JykKICAgICAgICA=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JykKICAgICAgICA=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">JykKICAgICAgICA=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">JykKICAgICAgICA=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CgpjbGFzcyBMaWNlbnNlc1ZpZXcoR2VuZXJpY0FQSVZpZXcpOgogICAgcXVlcnlzZXQgPSBJdGVtLm9iamVjdHMuYWxsKCkKCiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsIA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PSA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>pos</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>pos</last-search>
+      <last-offset />
+      <last-pattern>pos</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>order</entry>
+        <entry>get</entry>
+        <entry>ser</entry>
+        <entry>some*</entry>
+        <entry>get_*</entry>
+        <entry>pos</entry>
+      </history-search>
+      <history-cmd>
+        <entry>us</entry>
+        <entry>ys</entry>
+        <entry>cs</entry>
+        <entry>at</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
@@ -32,6 +90,42 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
