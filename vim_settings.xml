@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1508852132533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" timestamp="1508853068112">
+      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" timestamp="1508855243684">
         <mark key="'" line="21" column="53" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="31" />
+        <mark key="^" line="35" column="33" />
+        <mark key="." line="35" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -25,13 +25,17 @@
       <jump line="58" column="51" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
       <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
       <jump line="21" column="53" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgT2JqZWN0RG9lc05vdEV4aXN0Ogo=</text>
+      </register>
       <register name="1" type="4">
         <text encoding="base64">JykKICAgICAgICA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JykKICAgICAgICA=</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">JykKICAgICAgICA=</text>
@@ -49,7 +53,7 @@
         <text encoding="base64">CgpjbGFzcyBMaWNlbnNlc1ZpZXcoR2VuZXJpY0FQSVZpZXcpOgogICAgcXVlcnlzZXQgPSBJdGVtLm9iamVjdHMuYWxsKCkKCiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>pos</text>
@@ -91,7 +95,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -110,6 +114,9 @@
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -126,6 +133,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
