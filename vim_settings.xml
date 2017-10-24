@@ -6,12 +6,22 @@
       <file name="/Dummy.txt" timestamp="1508855578728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/nginx/nginx.conf" timestamp="1508858926474">
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/cd_store/store/views.py" timestamp="1508855243684">
         <mark key="'" line="21" column="53" />
         <mark key="[" line="35" column="31" />
         <mark key="]" line="35" column="31" />
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CryptoDetectorWebServices/nginx/Dockerfile" timestamp="1508858991773">
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -109,6 +119,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
