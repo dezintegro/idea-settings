@@ -18,6 +18,12 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="TabsPlacementNone">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="TabsPlacementRight">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="alt b" />
