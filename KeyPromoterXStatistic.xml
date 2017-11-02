@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unnamed'">
@@ -158,7 +158,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
           <Description>Debug 'store'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>323</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -238,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -446,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'store'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'testing'">
@@ -470,7 +470,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -758,7 +758,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>169</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
