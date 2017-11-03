@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>162</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unnamed'">
