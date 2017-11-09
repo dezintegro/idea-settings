@@ -318,7 +318,7 @@
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Refresh</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -798,7 +798,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>49</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
