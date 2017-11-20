@@ -2,5 +2,177 @@
   <component name="SettingsState">
     <option name="host" value="http://gitlab.osinit.com" />
     <option name="token" value="iLirsdYx8yN1-hny2_Vp" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/MCSTeam/9devices-modules/9devices-core.git" />
+          <option name="name" value="9devices-core" />
+          <option name="namespace" value="9devices" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:MCSTeam/9devices-modules/9devices-core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/MCSTeam/9devices-modules/9devices-desktop.git" />
+          <option name="name" value="9devices-desktop" />
+          <option name="namespace" value="9devices" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:MCSTeam/9devices-modules/9devices-desktop.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/MCSTeam/9devices-modules/9devices-mspd.git" />
+          <option name="name" value="9devices-mspd" />
+          <option name="namespace" value="9devices" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:MCSTeam/9devices-modules/9devices-mspd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/anton.uhankin/WarmFloor.git" />
+          <option name="name" value="WarmFloor" />
+          <option name="namespace" value="anton.uhankin" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:anton.uhankin/WarmFloor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/BARS/BARS.git" />
+          <option name="name" value="BARS" />
+          <option name="namespace" value="BARS" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:BARS/BARS.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/bitbucket-bamboo-integration-test/BitbucketBamboo.git" />
+          <option name="name" value="BitbucketBamboo" />
+          <option name="namespace" value="bitbucket-bamboo-integration-test" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:bitbucket-bamboo-integration-test/BitbucketBamboo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/BitsFusion/BitsFusion.git" />
+          <option name="name" value="BitsFusion" />
+          <option name="namespace" value="BitsFusion" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:BitsFusion/BitsFusion.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/CommonLibrary/CommonLibrary.git" />
+          <option name="name" value="CommonLibrary" />
+          <option name="namespace" value="CommonLibrary" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:CommonLibrary/CommonLibrary.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/CryptoDetector/CryptoDetector.git" />
+          <option name="name" value="CryptoDetector" />
+          <option name="namespace" value="CryptoDetector" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:CryptoDetector/CryptoDetector.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/CryptoDetector/CryptoDetectorWebServices.git" />
+          <option name="name" value="CryptoDetectorWebServices" />
+          <option name="namespace" value="CryptoDetector" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:CryptoDetector/CryptoDetectorWebServices.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/FootballLogic/FootballLogic.git" />
+          <option name="name" value="FootballLogic" />
+          <option name="namespace" value="FootballLogic" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:FootballLogic/FootballLogic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/game-engine/dash-engine.git" />
+          <option name="name" value="dash-engine" />
+          <option name="namespace" value="game-engine" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:game-engine/dash-engine.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/gravitation/gravitation.git" />
+          <option name="name" value="gravitation" />
+          <option name="namespace" value="gravitation" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:gravitation/gravitation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/ilya.korolev/unicom.git" />
+          <option name="name" value="unicom" />
+          <option name="namespace" value="ilya.korolev" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:ilya.korolev/unicom.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/LS_production_team/LS_production.git" />
+          <option name="name" value="LS_production" />
+          <option name="namespace" value="LS_production_team" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:LS_production_team/LS_production.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/magneta/allychat-integrations.git" />
+          <option name="name" value="allychat-integrations" />
+          <option name="namespace" value="magneta" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:magneta/allychat-integrations.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/magneta/kb-preprocessing.git" />
+          <option name="name" value="kb-preprocessing" />
+          <option name="namespace" value="magneta" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:magneta/kb-preprocessing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/magneta/skype-integration.git" />
+          <option name="name" value="skype-integration" />
+          <option name="namespace" value="magneta" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:magneta/skype-integration.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/magneta/tgn-integrations.git" />
+          <option name="name" value="tgn-integrations" />
+          <option name="namespace" value="magneta" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:magneta/tgn-integrations.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/MCSTeam/9devices.git" />
+          <option name="name" value="9devices" />
+          <option name="namespace" value="MCSTeam" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:MCSTeam/9devices.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/MCSTeam/MCSCloud.git" />
+          <option name="name" value="MCSCloud" />
+          <option name="namespace" value="MCSTeam" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:MCSTeam/MCSCloud.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/MCSTeam/MCSCloud-android.git" />
+          <option name="name" value="MCSCloud-android" />
+          <option name="namespace" value="MCSTeam" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:MCSTeam/MCSCloud-android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/MCSTeam/MCSCloud-web.git" />
+          <option name="name" value="MCSCloud-web" />
+          <option name="namespace" value="MCSTeam" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:MCSTeam/MCSCloud-web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/media-hero/media-hero.git" />
+          <option name="name" value="media-hero" />
+          <option name="namespace" value="media-hero" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:media-hero/media-hero.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/mihail.juranov/MCSCloud-iOS.git" />
+          <option name="name" value="MCSCloud-iOS" />
+          <option name="namespace" value="mihail.juranov" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:mihail.juranov/MCSCloud-iOS.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/RemoteExpert/RemoteExper-Android.git" />
+          <option name="name" value="RemoteExper-Android" />
+          <option name="namespace" value="RemoteExpert" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:RemoteExpert/RemoteExper-Android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/RemoteExpert/RemoteExpert.git" />
+          <option name="name" value="RemoteExpert" />
+          <option name="namespace" value="RemoteExpert" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:RemoteExpert/RemoteExpert.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.osinit.com/WarmFloorWPF/WarmFloorWPF.git" />
+          <option name="name" value="WarmFloorWPF" />
+          <option name="namespace" value="WarmFloorWPF" />
+          <option name="sshUrl" value="git@gitlab.osinit.com:WarmFloorWPF/WarmFloorWPF.git" />
+        </ProjectDto>
+      </list>
+    </option>
   </component>
 </application>
