@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="flake8" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/CryptoDetectorWebServices/bin/flake8 " />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="." />
+    </exec>
+  </tool>
+</toolSet>
