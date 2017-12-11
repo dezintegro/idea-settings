@@ -678,7 +678,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>57</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for /home/ilya/Pycha...'">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>335</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>112</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
