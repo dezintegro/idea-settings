@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6cc1fff-f362-49e7-b444-2b8fc3ea7830" name="Copy of project-level server 'visit'" url="http://172.17.0.2">
+        <fileTransfer host="172.17.0.2" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
