@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>220</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests in test.py'">
@@ -302,7 +302,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>37</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>388</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>426</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Choose Lookup Item">
