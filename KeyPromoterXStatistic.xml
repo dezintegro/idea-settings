@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>513</Count>
+          <Count>515</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -302,7 +302,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>47</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -358,7 +358,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>94</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -654,7 +654,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'runserver'</Description>
-          <Count>22</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'server'">
@@ -718,7 +718,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>394</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>447</Count>
+          <Count>448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
