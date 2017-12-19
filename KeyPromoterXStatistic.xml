@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>228</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests in test.py'">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>523</Count>
+          <Count>524</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -670,7 +670,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'runserver'</Description>
-          <Count>36</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'server'">
@@ -750,7 +750,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -838,7 +838,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'collectstatic'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'compilemessages'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'compilemessages'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'customer'">
@@ -926,7 +934,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'makemessages -a'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'makemessages -l en'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'makemessages -l en'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'makemigrations'">
