@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>528</Count>
+          <Count>536</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -686,7 +686,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'runserver'</Description>
-          <Count>40</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'server'">
