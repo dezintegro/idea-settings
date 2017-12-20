@@ -169,6 +169,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'collectstatic'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
+          <Description>Debug 'collectstatic'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'customer'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -569,6 +577,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'collectstatic'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'collectstatic'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'get_data_from_intercom'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -838,7 +854,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'collectstatic'</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'compilemessages'">
@@ -910,7 +926,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'less-vadim'</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'main'">
