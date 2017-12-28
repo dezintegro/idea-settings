@@ -390,7 +390,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>181</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -774,7 +774,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1174,6 +1174,14 @@
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Show Visualisation Popup...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="SmartType">
+        <Item>
+          <IdeaActionID>SmartTypeCompletion</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Space'</ShortCut>
+          <Description>SmartType</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
