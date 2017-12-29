@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'F10'</ShortCut>
           <Description>Database</Description>
-          <Count>99</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>640</Count>
+          <Count>642</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -334,7 +334,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>114</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -390,7 +390,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>199</Count>
+          <Count>200</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -782,7 +782,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>712</Count>
+          <Count>719</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
