@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>704</Count>
+          <Count>707</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1415,6 +1415,14 @@
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Super Method">
+        <Item>
+          <IdeaActionID>GotoSuperMethod</IdeaActionID>
+          <ShortCut>'Ctrl+U'</ShortCut>
+          <Description>Super Method</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
