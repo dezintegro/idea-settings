@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>713</Count>
+          <Count>714</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -342,7 +342,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>144</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -398,7 +398,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>237</Count>
+          <Count>238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -726,7 +726,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'runserver'</Description>
-          <Count>147</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'server'">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>414</Count>
+          <Count>415</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>786</Count>
+          <Count>791</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
