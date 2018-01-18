@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>264</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests in test.py'">
@@ -198,6 +198,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
           <Description>Debug 'get_data_from_intercom'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'gunicorn'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
+          <Description>Debug 'gunicorn'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -286,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>721</Count>
+          <Count>723</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -342,7 +350,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>149</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -398,7 +406,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>247</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -625,6 +633,14 @@
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'gunicorn'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'gunicorn'</Description>
+          <Count>25</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'handlers'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -790,7 +806,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>94</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -798,7 +814,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>123</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1470,7 +1486,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>798</Count>
+          <Count>829</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
