@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>724</Count>
+          <Count>725</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -910,7 +910,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'collectstatic'</Description>
-          <Count>43</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'compilemessages'">
@@ -934,6 +934,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'datamigration api.booking'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'default'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'default'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1183,6 +1191,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'visit dev'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'widgets-js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'widgets-js'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
