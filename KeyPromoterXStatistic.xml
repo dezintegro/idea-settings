@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>729</Count>
+          <Count>733</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
