@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'F10'</ShortCut>
           <Description>Database</Description>
-          <Count>133</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>291</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests in test.py'">
@@ -414,7 +414,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>278</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -758,7 +758,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'runserver'</Description>
-          <Count>153</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'server'">
@@ -838,7 +838,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -926,7 +926,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'collectstatic'</Description>
-          <Count>54</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'compilemessages'">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'widgets-js'</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -1510,7 +1510,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>456</Count>
+          <Count>459</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>124</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
