@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/dotnet/dotnet-docker-samples/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.osinit.com:443" />
+          <option name="userName" value="ilya.korolev" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
