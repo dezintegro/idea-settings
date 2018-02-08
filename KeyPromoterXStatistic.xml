@@ -1390,7 +1390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'runserver'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'schemamigration api.booking'">
@@ -1510,7 +1510,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>468</Count>
+          <Count>469</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
