@@ -302,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>822</Count>
+          <Count>823</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -414,7 +414,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>284</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>486</Count>
+          <Count>487</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
