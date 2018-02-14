@@ -7,6 +7,7 @@
       <mapping pattern="services" type="PLAIN_TEXT" />
       <mapping pattern="requirements_test" type="PLAIN_TEXT" />
       <mapping pattern="as" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
