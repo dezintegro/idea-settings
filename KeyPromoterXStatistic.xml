@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>298</Count>
+          <Count>300</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests in test.py'">
@@ -854,7 +854,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>86</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for /home/ilya/Pycha...'">
@@ -1031,6 +1031,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'less-vadim'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'mail_api'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'mail_api'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'main'">
@@ -1366,7 +1374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mail_api'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'main'">
@@ -1542,7 +1550,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>494</Count>
+          <Count>499</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
